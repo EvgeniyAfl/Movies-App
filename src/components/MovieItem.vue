@@ -76,7 +76,7 @@ export default {
 
 .movie-item:hover .movie-info-wrap {
   opacity: 1;
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(0, 0, 0, 0.8);
 }
 
 .movie-title {
