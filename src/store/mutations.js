@@ -1,3 +1,4 @@
 export default {
-  MOVIES: "MOVIES"
+  MOVIES: "MOVIES",
+  CURREN_PAGE: "CURREN_PAGE"
 };
